@@ -1,4 +1,4 @@
-# EDA for Insurance data: first steps in R and Python
+# EDA for Insurance data: R vs Python.
 In this repo, we will present some aspects of the data exploration in Insurance and the steps to consider before starting a predictive model to estimate claims frequency and claims cost, aka severity. We will share some code in both R and Python to calculate main KPI’s and compute visuals that helps to understand how the predictors interact with each other and get some hints on their potential predictive value.
 Additionally, we can compare the differences and similarities between R and Python for that kind of tasks.
 
