@@ -3,22 +3,10 @@ In this repo, we will present some aspects of the data exploration in Insurance 
 # Data
 The data set in use is in the repo. It comes from the chapter one of the book “Predictive Modelling Applications in Actuarial Science, Vol.2”, Edited by E. Frees et al..
 Here is a quick description of the fields:
-Variable	Type
-row_id	
-analysis_year	
-exposure	
-New business / renewal business	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+![Data_description](https://github.com/william-tiritilli/EDA-for-Insurance-data/assets/46381506/877aa874-a23e-4aff-9b3c-9b153222a2fd)
+
 	
 	
 	
